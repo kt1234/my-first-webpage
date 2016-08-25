@@ -1,0 +1,46 @@
+body {
+    background-color: #ffb3b3;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 15px;
+}
+
+h1 {
+    color: #ffe6cc;
+    text-align: center;
+    font-size: 40px;
+    border-top-style: dotted;
+    border-right-style: solid;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    font-family: 'Luckiest Guy', cursive;
+}
+
+
+p {
+    font-family: 'Oleo Script', cursive;
+
+    font-size: 20px;
+}
+
+img {
+    max-width: 100%
+}
+
+a:link {
+    color: #0000ff;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #6600ff;
+}
+
+a:hover {
+    color: #ff1a75;
+}
+
+a:active {
+    color: #99ffff;
+}
